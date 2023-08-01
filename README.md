@@ -1,8 +1,7 @@
-### Hi there 👋
+# 👋, P to the H here 
 
 <!--
 **magvtv/magvtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Just Another Random Full-Stack Dev With Flair For Front End Magic!
+## what drives him
+always enjoyed blending my innovation with seamless user experience. i try making pixel-perfect websites, clean code and staying curious to keep up with the ever-evolving tech
+
+
+## projects that make me proud
+always enjoyed blending my innovation with seamless user experience. i try making pixel-perfect websites, clean code and staying curious to keep up with the ever-evolving tech
+
+![image]({https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white})
+> inspired by passion, driven by code
