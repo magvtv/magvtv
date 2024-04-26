@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Another Random Full-Stack Dev With Flair For Front End Magic!
+
+- All started with passion for coding, later grew into a scary obsession of bringing my ideas to life.
+- Weaving together the magic of some languages I have learnt over the years: **JavaScript**, **Python**, **HTML**, **CSS**
+- My mission to build enthralling digital experiences with code; whether it's crafting sleek and responsive user interfaces, building robust backend systems, or seamlessly integrating the two, i am always up for a new challenge. okay, i try to. 
+
+
 ## what drives him
 always enjoyed blending my innovation with seamless user experience. i try making pixel-perfect websites, clean code and staying curious to keep up with the ever-evolving tech
 
