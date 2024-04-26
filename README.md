@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ## Bag of Tricks 
 
 ## This Digital Playground 🛝.
+![PH GitHub stats](https://github-readme-stats.vercel.app/api?username=magvtv&show_icons=true&theme=merko)
 
 
 ## Projects that make me smile.
