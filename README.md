@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - Weaving together the magic of some languages I have learnt over the years: **JavaScript**, **Python**, **HTML**, **CSS**
 - My mission to build enthralling digital experiences with code; whether it's crafting sleek and responsive user interfaces, building robust backend systems, or seamlessly integrating the two, i am always up for a new challenge. okay, i try to.
 
-## A Film Enthusiast
 
 ## Bag of Tricks 
 <div>
