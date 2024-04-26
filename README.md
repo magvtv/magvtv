@@ -1,4 +1,7 @@
-# 👋 P to the H here 
+<h1 align='center'>
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hey there! P to the H here 😄
+</h1>
 
 <!--
 **magvtv/magvtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
