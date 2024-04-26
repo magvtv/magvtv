@@ -3,6 +3,8 @@
   Hey there! P to the H here 😄
 </h1>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ph-nyarang%C3%B8-588685265/)](https://www.linkedin.com/in/ph-nyarang%C3%B8-588685265/)
+
 <!--
 **magvtv/magvtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
