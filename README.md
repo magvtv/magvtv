@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ## Bag of Tricks 
 <div>
-
   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align='center' src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
@@ -54,6 +53,9 @@ Here are some ideas to get you started:
 
 ## This Digital Playground 🛝.
 ![PH GitHub stats](https://github-readme-stats.vercel.app/api?username=magvtv&show_icons=true&theme=merko)
+<div align='left'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magvtv&theme=dark" alt="magvtv github streak" />
+</div>
 
 
 ## Projects that make me smile.
