@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 ## This Digital Playground 🛝.
 
-## Projects that make me smile.
 
+## Projects that make me smile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magvtv&repo=VisualJS&theme=github_dark)](https://github.com/magvtv/VisualJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magvtv&repo=08_Jorja&theme=github_dark)](https://github.com/magvtv/08_Jorja)
 
 
