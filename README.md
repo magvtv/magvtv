@@ -54,10 +54,6 @@ Here are some ideas to get you started:
 
 ## This Digital Playground 🛝.
 ![PH GitHub stats](https://github-readme-stats.vercel.app/api?username=magvtv&show_icons=true&theme=merko)
-<div align='left'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magvtv&theme=dark" alt="magvtv github streak" />
-</div>
-
 
 ## Projects that make me smile.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magvtv&repo=VisualJS&theme=github_dark)](https://github.com/magvtv/VisualJS)
