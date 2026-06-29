@@ -52,11 +52,4 @@ Here are some ideas to get you started:
 
 <br>
 
-## This Digital Playground 🛝.
-![PH GitHub stats](https://github-readme-stats.vercel.app/api?username=magvtv&show_icons=true&theme=merko)
-
-## Projects that make me smile.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magvtv&repo=VisualJS&theme=github_dark)](https://github.com/magvtv/VisualJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magvtv&repo=08_Jorja&theme=github_dark)](https://github.com/magvtv/08_Jorja)
-
 
